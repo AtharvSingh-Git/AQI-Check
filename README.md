@@ -10,6 +10,10 @@
 - **User-Friendly Interface**: Built with Tailwind CSS for a sleek, responsive, and clean design.
 - **Real-Time Data**: Fetches up-to-date air quality information using the *WAQI API*.
 # 📷 
+![Screenshot 2024-11-26 200014](https://github.com/user-attachments/assets/53454bd7-6e3f-4e74-a98b-8e298fc380fc)
+![Screenshot 2024-11-26 195953](https://github.com/user-attachments/assets/0c0ef391-0aa1-4bf4-b9a8-ea4a0b8d40f5)
+
+
 
 ### 🚀 Technologies Used
 - Frontend: React with functional components and hooks.
